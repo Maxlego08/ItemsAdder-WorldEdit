@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ItemsAdder-WorldEdit">
+    <output-path>C:/Progetti/Minecraft/TestServer/blank_template/1.20/plugins</output-path>
+    <root id="archive" name="ItemsAdder-WorldEdit.jar">
+      <element id="module-output" name="ItemsAdder-WorldEdit" />
+    </root>
+  </artifact>
+</component>

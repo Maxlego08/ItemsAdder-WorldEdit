@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ItemsAdder-WorldEdit-BUILD">
+    <output-path>$PROJECT_DIR$/output/</output-path>
+    <root id="archive" name="ItemsAdder-WorldEdit.jar">
+      <element id="module-output" name="ItemsAdder-WorldEdit" />
+    </root>
+  </artifact>
+</component>
